@@ -1,7 +1,7 @@
 .content{
   max-width: 1800px;
   margin: 0 auto;
-  margin-top: 200px;
+  margin-top: 50px;
 }
 
 .container{
@@ -22,194 +22,337 @@
 /*COL*/
 
 .col-1{
-  width: calc((100% / 24) * 1);
+  width: calc((100% / 40) * 1);
 }
 
 .col-2{
-  width: calc((100% / 24) * 2);
+  width: calc((100% / 40) * 2);
 }
 
 .col-3{
-  width: calc((100% / 24) * 3);
+  width: calc((100% / 40) * 3);
 }
 
 .col-4{
-  width: calc((100% / 24) * 4);
+  width: calc((100% / 40) * 4);
 }
 
 .col-5{
-  width: calc((100% / 24) * 5);
+  width: calc((100% / 40) * 5);
 }
 
 .col-6{
-  width: calc((100% / 24) * 6);
+  width: calc((100% / 40) * 6);
 }
 
 .col-7{
-  width: calc((100% / 24) * 7);
+  width: calc((100% / 40) * 7);
 }
 
 .col-8{
-  width: calc((100% / 24) * 8);
+  width: calc((100% / 40) * 8);
 }
 
 .col-9{
-  width: calc((100% / 24) * 9);
+  width: calc((100% / 40) * 9);
 }
 
 .col-10{
-  width: calc((100% / 24) * 10);
+  width: calc((100% / 40) * 10);
 }
 
 .col-11{
-  width: calc((100% / 24) * 11);
+  width: calc((100% / 40) * 11);
 }
 
 .col-12{
-  width: calc((100% / 24) * 12);
+  width: calc((100% / 40) * 12);
 }
 
 .col-13{
-  width: calc((100% / 24) * 13);
+  width: calc((100% / 40) * 13);
 }
 
 .col-14{
-  width: calc((100% / 24) * 14);
+  width: calc((100% / 40) * 14);
 }
 
 .col-15{
-  width: calc((100% / 24) * 15);
+  width: calc((100% / 40) * 15);
 }
 
 .col-16{
-  width: calc((100% / 24) * 16);
+  width: calc((100% / 40) * 16);
 }
 
 .col-17{
-  width: calc((100% / 24) * 17);
+  width: calc((100% / 40) * 17);
 }
 
 .col-18{
-  width: calc((100% / 24) * 18);
+  width: calc((100% / 40) * 18);
 }
 
 .col-19{
-  width: calc((100% / 24) * 19);
+  width: calc((100% / 40) * 19);
 }
 
 .col-20{
-  width: calc((100% / 24) * 20);
+  width: calc((100% / 40) * 20);
 }
 
 .col-21{
-  width: calc((100% / 24) * 21);
+  width: calc((100% / 40) * 21);
 }
 
 .col-22{
-  width: calc((100% / 24) * 22);
+  width: calc((100% / 40) * 22);
 }
 
 .col-23{
-  width: calc((100% / 24) * 23);
+  width: calc((100% / 40) * 23);
 }
 
 .col-24{
-  width: calc((100% / 24) * 24);
+  width: calc((100% / 40) * 24);
+}
+
+.col-25{
+  width: calc((100% / 40) * 25);
+}
+
+.col-26{
+  width: calc((100% / 40) * 26);
+}
+
+.col-27{
+  width: calc((100% / 40) * 27);
+}
+
+.col-28{
+  width: calc((100% / 40) * 28);
+}
+
+.col-29{
+  width: calc((100% / 40) * 29);
+}
+
+.col-30{
+  width: calc((100% / 40) * 30);
+}
+
+.col-31{
+  width: calc((100% / 40) * 31);
+}
+
+.col-32{
+  width: calc((100% / 40) * 32);
+}
+
+.col-33{
+  width: calc((100% / 40) * 33);
+}
+
+.col-34{
+  width: calc((100% / 40) * 34);
+}
+
+.col-35{
+  width: calc((100% / 40) * 35);
+}
+
+.col-36{
+  width: calc((100% / 40) * 36);
+}
+
+.col-37{
+  width: calc((100% / 40) * 37);
+}
+
+.col-38{
+  width: calc((100% / 40) * 38);
+}
+
+.col-39{
+  width: calc((100% / 40) * 39);
+}
+
+.col-40{
+  width: calc((100% / 40) * 40);
 }
 
 /*OFFSET*/
 .offset-1{
-  margin-left: calc((100% / 24) * 1);
+  margin-left: calc((100% / 40) * 1);
 }
 
 .offset-2{
-  margin-left: calc((100% / 24) * 2);
+  margin-left: calc((100% / 40) * 2);
 }
 
 .offset-3{
-  margin-left: calc((100% / 24) * 3);
+  margin-left: calc((100% / 40) * 3);
 }
 
 .offset-4{
-  margin-left: calc((100% / 24) * 4);
+  margin-left: calc((100% / 40) * 4);
 }
 
 .offset-5{
-  margin-left: calc((100% / 24) * 5);
+  margin-left: calc((100% / 40) * 5);
 }
 
 .offset-6{
-  margin-left: calc((100% / 24) * 6);
+  margin-left: calc((100% / 40) * 6);
 }
 
 .offset-7{
-  margin-left: calc((100% / 24) * 7);
+  margin-left: calc((100% / 40) * 7);
 }
 
 .offset-8{
-  margin-left: calc((100% / 24) * 8);
+  margin-left: calc((100% / 40) * 8);
 }
 
 .offset-9{
-  margin-left: calc((100% / 24) * 9);
+  margin-left: calc((100% / 40) * 9);
 }
 
 .offset-10{
-  margin-left: calc((100% / 24) * 10);
+  margin-left: calc((100% / 40) * 10);
 }
 
 .offset-11{
-  margin-left: calc((100% / 24) * 11);
+  margin-left: calc((100% / 40) * 11);
 }
 
 .offset-12{
-  margin-left: calc((100% / 24) * 12);
+  margin-left: calc((100% / 40) * 12);
 }
 
 .offset-13{
-  margin-left: calc((100% / 24) * 13);
+  margin-left: calc((100% / 40) * 13);
 }
 
 .offset-14{
-  margin-left: calc((100% / 24) * 14);
+  margin-left: calc((100% / 40) * 14);
 }
 
 .offset-15{
-  margin-left: calc((100% / 24) * 15);
+  margin-left: calc((100% / 40) * 15);
 }
 
 .offset-16{
-  margin-left: calc((100% / 24) * 16);
+  margin-left: calc((100% / 40) * 16);
 }
 
 .offset-17{
-  margin-left: calc((100% / 24) * 17);
+  margin-left: calc((100% / 40) * 17);
 }
 
 .offset-18{
-  margin-left: calc((100% / 24) * 18);
+  margin-left: calc((100% / 40) * 18);
 }
 
 .offset-19{
-  margin-left: calc((100% / 24) * 19);
+  margin-left: calc((100% / 40) * 19);
 }
 
 .offset-20{
-  margin-left: calc((100% / 24) * 20);
+  margin-left: calc((100% / 40) * 20);
 }
 
 .offset-21{
-  margin-left: calc((100% / 24) * 21);
+  margin-left: calc((100% / 40) * 21);
 }
 
 .offset-22{
-  margin-left: calc((100% / 24) * 22);
+  margin-left: calc((100% / 40) * 22);
 }
 
 .offset-23{
-  margin-left: calc((100% / 24) * 23);
+  margin-left: calc((100% / 40) * 23);
 }
 
 .offset-24{
-  margin-left: calc((100% / 24) * 24);
+  margin-left: calc((100% / 40) * 24);
 }
+
+.offset-25{
+  margin-left: calc((100% / 40) * 25);
+}
+
+.offset-26{
+  margin-left: calc((100% / 40) * 26);
+}
+
+.offset-27{
+  margin-left: calc((100% / 40) * 27);
+}
+
+.offset-28{
+  margin-left: calc((100% / 40) * 28);
+}
+
+.offset-29{
+  margin-left: calc((100% / 40) * 29);
+}
+
+.offset-30{
+  margin-left: calc((100% / 40) * 30);
+}
+
+.offset-31{
+  margin-left: calc((100% / 40) * 31);
+}
+
+.offset-32{
+  margin-left: calc((100% / 40) * 32);
+}
+
+
+.offset-33{
+  margin-left: calc((100% / 40) * 33);
+}
+
+.offset-34{
+  margin-left: calc((100% / 40) * 34);
+}
+
+.offset-35{
+  margin-left: calc((100% / 40) * 35);
+}
+
+.offset-36{
+  margin-left: calc((100% / 40) * 36);
+}
+
+.offset-37{
+  margin-left: calc((100% / 40) * 37);
+}
+
+.offset-38{
+  margin-left: calc((100% / 40) * 38);
+}
+
+.offset-39{
+  margin-left: calc((100% / 40) * 39);
+}
+
+.offset-40{
+  margin-left: calc((100% / 40) * 40);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
